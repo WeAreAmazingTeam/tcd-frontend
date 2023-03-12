@@ -1,0 +1,29 @@
+.wrapper-button-images {
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+.wrapper-button-images::-webkit-scrollbar {
+    width: 0;
+    height: 0;
+}
+
+.wrapper-button-images::-webkit-scrollbar-track {
+    box-shadow: none;
+    border-radius: 0;
+}
+
+.wrapper-button-images::-webkit-scrollbar-thumb {
+    background: none;
+    border-radius: 0;
+}
+
+.wrapper-button-images::-webkit-scrollbar-thumb:hover {
+    background: none;
+}
+
+.wrapper-campaign-image {
+    border: 1px solid #333;
+    border-radius: 10px;
+    overflow: hidden;
+}

@@ -1,0 +1,228 @@
+@media (max-width: 767px) {
+    .dl_txt_header {
+        padding-top: 6px !important;
+        padding-bottom: 6px !important;
+        text-align: center;
+    }
+
+    .link_socmed_footer {
+        margin: 12px 5px 12px 5px;
+    }
+
+    .mt290 {
+        margin-top: 290px;
+    }
+
+    .box_donation {
+        margin-top: 1rem;
+    }
+
+    .m_judul_left_review,
+    .m_judul_right_review {
+        display: block;
+    }
+
+    .m_txt_judul_review {
+        margin: 0;
+        font-size: 14px;
+        font-weight: bold;
+    }
+
+    .m_txt_minute {
+        margin: 0;
+        font-size: 12px;
+    }
+
+    .m_judul_right_review {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .m_judul_left_review {
+        width: 30%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .m_svg_icon_user {
+        width: 30px;
+        border-radius: 50%;
+        height: 30px;
+        border: 1px solid black;
+        padding: 3px;
+    }
+
+    .box_judul_review {
+        display: flex;
+        border-bottom: unset;
+        min-height: 50px;
+    }
+
+    .txt_judul_review,
+    .txt_minute {
+        display: none;
+    }
+
+    /* Sesuaikan style header */
+    .jumbotron_header {
+        text-align: center;
+    }
+
+    .logo_brand {
+        margin-left: 20px;
+    }
+
+    .navbar-toggler {
+        margin-right: 20px;
+    }
+
+    .add_header_about {
+        height: 250px;
+    }
+
+    .headline_donasi {
+        text-align: center;
+        margin-bottom: -20px;
+    }
+
+    .btn_header {
+        width: 190px;
+        margin: auto;
+    }
+
+    .padl45 {
+        visibility: hidden;
+    }
+
+    .txt_header1 {
+        font-size: 22px !important;
+        margin: 40px 0px 40px 0px;
+    }
+
+    .txt_header2 {
+        font-size: 15px !important;
+        margin: 0px 0px 80px 0px;
+    }
+
+    /* Sesuaikan style list donation */
+    .list_donasi {
+        margin-top: 40px !important;
+    }
+
+    .btn_see_all_donasi {
+        font-size: 14px !important;
+    }
+
+    /* Sesuaikan style jumbotron ringkasan donasi */
+    .jumbotron_ringkasan_donasi {
+        padding: 50px 0 !important;
+    }
+
+    .txt_judul_ringkas_donasi1 {
+        font-size: 24px !important;
+    }
+
+    .txt_judul_ringkas_donasi2 {
+        font-size: 12px !important;
+    }
+
+    /* Sesuaikan style heartwarming stories */
+    .headline_judul {
+        font-size: 24px !important;
+    }
+
+    .sub_headline_judul {
+        font-size: 16px !important;
+    }
+
+    .box_review {
+        text-align: justify;
+        width: 350px;
+        min-height: 250px;
+        overflow: hidden;
+    }
+
+    .txt_judul_review {
+        font-size: 15px;
+    }
+
+    .box_review_right {
+        display: none;
+    }
+
+    .txt_description_review {
+        font-size: 14px;
+    }
+
+    .card-img-top {
+        width: 100% !important;
+        height: 150px !important;
+    }
+
+    .meet-our-team-header {
+        margin-bottom: 50px;
+    }
+
+    .dl_box_search {
+        margin: 0 auto !important;
+    }
+
+    .img_ringkas_donasi {
+        width: 100px;
+        height: 100px;
+        margin: auto;
+    }
+
+    .logo_brand_footer {
+        margin: auto;
+        width: 100%;
+        border-radius: 50%;
+    }
+
+    .btn_header {
+        text-align: center;
+        margin: auto;
+        display: flex;
+    }
+
+    .box_list_faq {
+        padding: 20px;
+        height: auto;
+    }
+
+    .txt_judul_faq {
+        font-size: 12px;
+        line-height: unset;
+    }
+    .btn_header {
+        font-size: 14px !important;
+        height: 40px;
+        width: 220px;
+    }
+}
+
+@media only screen and (min-width: 769px) and (max-width: 1281px) {
+    .box_review {
+        width: 85%;
+    }
+
+    .box_review_left {
+        width: 60%;
+    }
+
+    .box_review_right {
+        width: 35%;
+    }
+
+    .btn_header {
+        font-size: 14px !important;
+        height: 45px;
+        width: 250px;
+    }
+
+    .txt_header1 {
+        font-size: 35px;
+    }
+}
