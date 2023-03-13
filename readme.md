@@ -63,11 +63,11 @@ If you really want to run it yourself on your local machine, you can follow thes
    git clone https://github.com/WeAreAmazingTeam/tcd-frontend.git
     ```
 2. ```
-   mv tcd-frontend ~/Path/To/Local/Server && cd ~/Path/To/Local/Server
+   mv tcd-frontend /Path/To/Local/Server && cd /Path/To/Local/Server
     ```
     **example**:
    ```
-   mv tcd-frontend ~/Applications/MAMP/htdocs && cd ~/Applications/MAMP/htdocs
+   mv tcd-frontend /Applications/MAMP/htdocs/tcd-frontend && cd /Applications/MAMP/htdocs/tcd-frontend
     ```
 3. ```
    composer install
