@@ -81,6 +81,7 @@ If you really want to run it yourself on your local machine, you can follow thes
 7. Point Your Website On URL Bar
 8. Enjoy and Happy Explore! **#TheCloudFirstWinner**
 
+Or you can see the tutorial through the following video: https://youtu.be/sj1ZTC33ycs.
 ## Tech Stack
 - Apache (For Local Development)
 - Nginx
